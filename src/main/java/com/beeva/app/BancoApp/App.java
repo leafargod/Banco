@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "jaquer guey!" );
+        System.out.println( "hola error x2" );
     }
 }
